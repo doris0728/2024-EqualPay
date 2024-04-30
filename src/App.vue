@@ -5,6 +5,8 @@
 <template>
     test
     <a>234</a>
+    <a>test</a>
+    <a>中文中文</a>
     <ul>
         <li>123</li>
         <li>123</li>
