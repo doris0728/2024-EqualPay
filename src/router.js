@@ -5,6 +5,8 @@ const About = { template: '<div>About</div>' }
 
 const routes = [
   { path: '/', component: () => import('./pages/Home.vue') },
+  { path: '/ProjectList', component: () => import('./pages/ProjectList.vue') },
+  
 //   { path: '/about', component: About },
 ]
 
