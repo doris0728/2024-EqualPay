@@ -4,6 +4,8 @@
 
 <template>
     <div class="container">
+        <font-awesome-icon :icon="['fas', 'house']" />
+        <font-awesome-icon :icon="['fas', 'house']" />
 123
     </div>
 </template>
